@@ -1,1 +1,1 @@
-# YourMovies back-end.
+# YourMovies REST API
